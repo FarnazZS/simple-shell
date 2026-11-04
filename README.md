@@ -45,6 +45,7 @@ You will see a prompt like this:
 ```text
 Welcome to Simple Shell
 Type 'exit' to quit
+Commands: pwd, ls, cd, touch, ni, mkdir, rm, rmdir, cat, cp, mv, clear, cls, exit
 
 $ 
 ```
